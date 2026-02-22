@@ -1,5 +1,13 @@
-## Hi there 👋
+## Welcome 💪🐶
+### I'm Nicholas Barton, an MIS student at the University of Georgia who is interested in all things data!
 
+
+- 🔭 I’m currently working on finishing out school! I graduate in May 2026 and am looking forward to starting my next chapter in life.
+- 🌱 I’m currently learning all about data! I'm taking classes on Cloud Computing, Data Engineering, and Machine Learning, as well as studying Data Camp to begin working on person projects.
+- 💬 Ask me about Formula 1 or UFC!
+- 📫 How to reach me: Email me @ndbarton02@gmail.com
+
+I am looking forward to expanding upon my skills and contributing to my page more in the future!
 <!--
 **NicholasBarton1/NicholasBarton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
